@@ -65,7 +65,7 @@ DAGFlow/
 
 - 公式的计算流程图
 
-    ![](image/计算流图demo.png)
+    ![](../image/计算流图demo.png)
 
 - demo.py代码
 
